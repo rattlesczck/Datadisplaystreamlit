@@ -1,4 +1,4 @@
-# Datadisplaystreamlit
+# Data Visualizer (CSV)
 This project is a Streamlit-based interactive web application that allows users to upload and explore CSV datasets. The dashboard provides several key features:
 
 Data Preview: Displays the first few rows of the dataset.
